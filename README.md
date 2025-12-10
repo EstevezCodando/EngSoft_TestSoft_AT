@@ -587,7 +587,6 @@ try {
 }
 ```
 
-Esse mecanismo mantém compatibilidade com o enunciado e garante execução robusta.
 
 ---
 
